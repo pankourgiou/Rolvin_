@@ -15,6 +15,6 @@ def execute_rolvin(code):
 
 # Example Usage
 code = """
-rolvin "1234"
+rolvin "Hahaha"
 """
 execute_rolvin(code)
